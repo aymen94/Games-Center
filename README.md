@@ -1,8 +1,7 @@
 # gamescenter
 Games Center Project similar Origin, Steam, Uplay. Is a Platform store for buy and manage your games. Created with Java Swing and Mysql.
 
-
-# aymen94.github.io/gamescenter.html
+## visit : https://aymen94.github.io/gamescenter.html
 
 
 ## How to use

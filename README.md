@@ -1,5 +1,5 @@
 # gamescenter
-Games Center Project similar Origin, Steam, Uplay. Is a Platform store for buy and manage your games. Created with Java Swing and SQL.
+Games Center Project similar to Origin, Steam, Uplay. Is a Platform store for buy and manage your games. Created with Java Swing and SQL.
  
 * Languages: Java,SQL 
 * DBMS: Mysql 
